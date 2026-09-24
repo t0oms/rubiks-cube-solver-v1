@@ -7,7 +7,7 @@ This Python project offers an interactive environment to explore and solve a vir
 ## Installation
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/t0oms/Rubiks-Cube-Solver.git
+git clone https://github.com/t0oms/rubiks-cube-solver-v1.git
 ```
 2. Install the required dependencies:
 ```
@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ## Usage
 1. Navigate to the project directory:
 ```
-cd Rubiks-Cube-Solver
+cd rubiks-cube-solver-v1
 ```
 2. Run the main Python script:
 ```
