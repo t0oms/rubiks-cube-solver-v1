@@ -27,7 +27,7 @@ python main.py
 5. Move the mouse while holding the right click to move the camera.
 6. Use the scroll wheel to zoom in and out.
 7. Press the <kbd>R</kbd> key to scramble the cube into a random position.
-8. Press ress the <kbd>SPACE</kbd> to enter or exit the solving mode.
+8. Press <kbd>SPACE</kbd> to enter or exit the solving mode.
 9. Press <kbd><-</kbd> or <kbd>-></kbd> keys to move through the solving steps.
 
 ![rubiks_img2](https://github.com/t0oms/rubiks-cube-solver-v1/assets/66429919/2f446d13-4011-4ced-beae-97dbf060a2c1)
