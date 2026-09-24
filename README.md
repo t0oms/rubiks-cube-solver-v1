@@ -1,6 +1,6 @@
 # Rubik's Cube Solver
 
-![rubiks_img1](https://github.com/t0oms/Rubiks-Cube-Solver/assets/66429919/7d9396c2-fa8b-46a1-8c36-9258bdae256c)
+![rubiks_img1](https://github.com/t0oms/rubiks-cube-solver-v1/assets/66429919/7d9396c2-fa8b-46a1-8c36-9258bdae256c)
 
 This Python project offers an interactive environment to explore and solve a virtual Rubik's Cube. Built using Python along with the Ursina 3D engine, and implementing the "layer by layer" Rubik's cube solving algorithm.
 
@@ -30,6 +30,6 @@ python main.py
 8. Press ress the <kbd>SPACE</kbd> to enter or exit the solving mode.
 9. Press <kbd><-</kbd> or <kbd>-></kbd> keys to move through the solving steps.
 
-![rubiks_img2](https://github.com/t0oms/Rubiks-Cube-Solver/assets/66429919/2f446d13-4011-4ced-beae-97dbf060a2c1)
+![rubiks_img2](https://github.com/t0oms/rubiks-cube-solver-v1/assets/66429919/2f446d13-4011-4ced-beae-97dbf060a2c1)
 * This project was developed by Toms Pētersons
 * The project was created as the final project of the University of Latvia's Python course.
